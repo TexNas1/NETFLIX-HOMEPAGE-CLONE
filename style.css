@@ -11,7 +11,7 @@ html, body{
 }
 
 header{
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.05)), url('img/background_img.JPG');
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.05)), url('img/background_img.jpg');
   height: 95vh;
 }
 nav img{
